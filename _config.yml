@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kehan Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,14 +21,14 @@ repository               : "WangKehan573/academickk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "person.png"
-  name             : "Your Sidebar Name"
+  avatar           : "person.jpg"
+  name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Tsinghua Phd;Senior Researcher"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "China Telcom"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wnangkehan2018@yeah.net" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
