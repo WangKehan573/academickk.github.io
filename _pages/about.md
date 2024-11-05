@@ -34,6 +34,7 @@ More introductions to my current and previous research projects can be found in 
 Following are some related keywords often appeared in my papers:
 
 Computational Chemistry: quantum chemistry, MD simulation, multi-scale calculation, DFT…
+
 AI for Science: machine learning potentials, generative AI for molecular generation, Large Language Models …
 Materials: battery, OLED, semiconductors, capacitor, aluminum foil, fluorine chemicals…
 
@@ -45,13 +46,30 @@ I am committed to applying various intelligent technologies to a wide range of f
 
 I am particularly interested in the following topics:
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1.AI4S
+======
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+My interests in AI4S include machine learning potential , automatic differentiation algorithms, deep generative models, graph theory, and their applications into interface modelling, enhanced sampling method, force field optimization, molecular generation, material property prediction and chemical reaction networks, etc.
+
+
+
+Particularly, I developed a method with my co-workers to use multi-fidelity training data of JAX-ReaxFF—an automatic differentiation method to parameterize ReaxFF and DFT to reduce the computational costs in training SchNet and MACE based machine learning potentials. The method was employed to study a diverse range of properties of 2D semiconductor materials, see 2024 JPCL: https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c03080.
+
+
+2.Tribology
+======
+
+I formally published a paper in the journal Frontiers in Chemistry titled "Negative or positive? Loading area dependent correlation between friction and normal load in structural superlubricity." In this study, we discovered a counterintuitive phenomenon: as pressure increases, friction actually decreases. We conducted MD simulations with data analysis and statistical analysis on morphological and energetic data, built models, effectively predicted frictional forces, and proposed effective methods for reducing friction.
+
+
+3.New-generation cloud computing technologies
+
+In the field of cloud computing, the automated analysis of log data is crucial for operations and maintenance teams. This study introduces LLMDPP, a novel log parser that leverages Large Language Models (LLMs) and Determinantal Point Process (DPP) sampling techniques to enhance the efficiency and accuracy of online log parsing. LLMDPP transforms raw log messages into structured log templates through fewshot learning, thereby simplifying the processing and analysis of log data.The study explores the accuracy of LLMDPP in log parsing tasks and compares the effectiveness of different encoding functions (TF-IDF and Flan-T5-small embedding layer) in DPP sampling. Experimental results show that LLMDPP outperforms traditional methods in both Global Accuracy (GA) and Parsing Accuracy (PA), with the semantic information encoding function performing better when the number of samples is low. Furthermore, we simulated an online scenario to evaluate the parsing effectiveness of different sampling methods on unseen
+log datasets. The results indicate that the DPP sampling method has an advantage in maintaining sample diversity and fairness, which can improve parsing accuracy.
+
+![image](https://github.com/user-attachments/assets/67172333-293d-4037-a5f0-bf6e6c40895e)
+
+
 
 **Markdown generator**
 
