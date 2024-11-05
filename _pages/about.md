@@ -82,15 +82,24 @@ log datasets. The results indicate that the DPP sampling method has an advantage
 Awards and Social Activities
 ======
 [10/2023]  Tsinghua University Weihai Scholarship
+
 [09/2023]   Best Presentation at NanoMT Conference
+
 [10/2022]    Tsinghua University General Talent Scholarship
+
 [12/2021]  Second Prize of "RONG" Scholarship from the Big Data Research Center, School of Software, Tsinghua University
+
 [01/2022] - Present    Outstand Volunteer for "Data Faction" WeChat Public Account, School of Software, Tsinghua University: Engaged in translation and proofreading work in the translation group, translated and proofread more than 20 articles, totaling over 50,000 words. Many articles have exceeded 5,000 reads.
 —Participated in the publication of original articles such as "Google JAX Boosts Scientific Computing," "Resonating with the Times, AI Aids in Industrial Defect Detection," "A Preliminary Exploration of Machine Learning in Molecular Dynamics Field Conference Papers," "A Quick Read of Computational Chemistry Field Conference Papers in One Article," and "Knowledge Distillation: Unlocking the Wisdom Code of Large Models."
+
 [06/2019]   Outstanding Graduate of Beijing City
+
 [10/2018]  National Scholarship
+
 [10/2017]   National Scholarship
+
 [10/2016]   National Scholarship
+
 [10/2016]   Second Prize in the National College English Competition
 
 
