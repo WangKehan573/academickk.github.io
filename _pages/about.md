@@ -18,7 +18,7 @@ Education and Employment
 
 [09/2019]-[06/2024], PhD student (Mechanical Engineering, Ph.D. thesis title: Research on Structural Superlubricity Simulation Based on Machine Learning.), Tsinghua University, Beijing, China
 
-[07/2022]-[04/2023], AI research Intern, Samsung Research China-Beijing (SRC-B), Beijing, China
+[07/2022]-[04/2023], AI research Intern (SRC-B Best Intern Award), Samsung Research China-Beijing (SRC-B), Beijing, China
 
 [06/2021]-[08/2021], AI Engineering Intern, Huawei, Dongguan, China
 
@@ -26,14 +26,24 @@ Education and Employment
 
 
 
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+More introductions to my current and previous research projects can be found in papers.
+
+Following are some related keywords often appeared in my papers:
+
+Computational Chemistry: quantum chemistry, MD simulation, multi-scale calculation, DFT…
+AI for Science: machine learning potentials, generative AI for molecular generation, Large Language Models …
+Materials: battery, OLED, semiconductors, capacitor, aluminum foil, fluorine chemicals…
+
+Tribology:Friction, Wear, Lubrication,...
+
+New-generation cloud computing technologies: Large language model, log analysis, software engineering,...
+
+I am committed to applying various intelligent technologies to a wide range of fields, including natural sciences, software engineering, and new-generation cloud computing technologies. While pursuing accuracy, a good computational method should provide new physical insights for key issues and guide product design.
+
+I am particularly interested in the following topics:
 
 Site-wide configuration
 ------
