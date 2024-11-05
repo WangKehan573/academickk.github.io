@@ -55,6 +55,8 @@ My interests in AI4S include machine learning potential , automatic differentiat
 
 Particularly, I developed a method with my co-workers to use multi-fidelity training data of JAX-ReaxFF—an automatic differentiation method to parameterize ReaxFF and DFT to reduce the computational costs in training SchNet and MACE based machine learning potentials. The method was employed to study a diverse range of properties of 2D semiconductor materials, see 2024 JPCL: https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c03080.
 ![image](https://github.com/user-attachments/assets/f196fcc4-dc85-4dfa-996c-410db5143d63)
+
+
 ![image](https://github.com/user-attachments/assets/548fbeab-676e-4e15-a2e1-ec4d34e7d7b7)
 
 
@@ -63,7 +65,8 @@ Particularly, I developed a method with my co-workers to use multi-fidelity trai
 
 I formally published a paper in the journal Frontiers in Chemistry(https://www.frontiersin.org/articles/10.3389/fchem.2021.807630/full) titled "Negative or positive? Loading area dependent correlation between friction and normal load in structural superlubricity." In this study, we discovered a counterintuitive phenomenon: as pressure increases, friction actually decreases. We conducted MD simulations with data analysis and statistical analysis on morphological and energetic data, built models, effectively predicted frictional forces, and proposed effective methods for reducing friction.
 
-![image](https://github.com/user-attachments/assets/5897c85d-e290-4359-8e15-1383141aaae6)
+
+![image](https://github.com/user-attachments/assets/2dcd36d0-51ad-43ca-bd0b-3be19ba8f6c0)
 
 
 3.New-generation cloud computing technologies
