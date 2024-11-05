@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me (Updated: 05-Mov-2024)"
+title: "About Me (Updated: 05-Nov-2024)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -33,14 +33,14 @@ More introductions to my current and previous research projects can be found in 
 
 Following are some related keywords often appeared in my papers:
 
-*Computational Physics and Chemistry*: quantum chemistry, MD simulation, multi-scale calculation, DFT…
+●*Computational Physics and Chemistry*: quantum chemistry, MD simulation, multi-scale calculation, DFT…
 
-*AI for Science*: machine learning potentials, generative AI for molecular generation, Large Language Models …
+●*AI for Science*: machine learning potentials, generative AI for molecular generation, Large Language Models …
 Materials: battery, OLED, semiconductors, capacitor, aluminum foil, fluorine chemicals…
 
-*Tribology and Mechanics*:Friction, Wear, Lubrication, Stress, Strain...
+●*Tribology and Mechanics*: Friction, Wear, Lubrication, Stress, Strain...
 
-*New-generation cloud computing technologies*: Large language model, log analysis, software engineering,...
+●*New-generation cloud computing technologies*: Large language model, log analysis, software engineering,...
 
 I am committed to applying various intelligent technologies to a wide range of fields, including natural sciences, software engineering, and new-generation cloud computing technologies. While pursuing accuracy, a good computational method should provide new physical insights for key issues and guide product design.
 
@@ -85,7 +85,7 @@ Awards and Social Activities
 
 [09/2023]   Best Presentation at NanoMT Conference
 
-[10/2022]    Tsinghua University General Talent Scholarship
+[10/2022]   Tsinghua University General Talent Scholarship
 
 [12/2021]  Second Prize of "RONG" Scholarship from the Big Data Research Center, School of Software, Tsinghua University
 
