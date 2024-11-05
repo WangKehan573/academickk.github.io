@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me (Updated: 24-Oct-2024)
+
 My name is Wang Kehan. I obtained my Ph.D. in 2024 from Tsinghua University. Subsequently, I joined China Telecom Cloud Co., Ltd. as a senior researcher. During my doctoral studies, I interned at Huawei and the China Research Institute of Samsung. My research covers AI for science, large language models, and new-generation cloud computing technologies. I have published papers in journals including JPCL.
 
 You can contact me at wangkehan2018@yeah.net.
